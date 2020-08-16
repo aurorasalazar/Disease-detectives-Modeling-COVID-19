@@ -26,13 +26,13 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#intro">INTRO</a></li>  <!-- TITULO INTRO DEL MENU-->
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#uno">PRIMER TITULO</a></li> <!-- TITULO UNO DEL MENU-->
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#dos">SEGUNDO TITULO</a></li> <!-- TITULO DOS DEL MENU-->
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#tres">TERCER TITULO</a></li> <!-- TITULO TRES DEL MENU-->
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#cuatro">CUARTO TITULO</a></li> <!-- TITULO CUATRO DEL MENU-->
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#cinco">QUINTO TITULO</a></li> <!-- TITULO CINCO DEL MENU-->
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">TEAM</a></li> <!-- TITULO TEAM DEL MENU-->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#intro">¿Cuál es nuestro objetivo?</a></li>  <!-- TITULO INTRO DEL MENU-->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#uno">Descubre cómo lo hicimos</a></li> <!-- TITULO UNO DEL MENU-->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#dos">Resultados</a></li> <!-- TITULO DOS DEL MENU-->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#tres">Conclusiones</a></li> <!-- TITULO TRES DEL MENU-->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#cuatro">¿Qué podemos hacer?</a></li> <!-- TITULO CUATRO DEL MENU-->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#cinco">Conoce más sobre el COVID-19</a></li> <!-- TITULO CINCO DEL MENU-->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Equipo maravilla</a></li> <!-- TITULO TEAM DEL MENU-->
                 </ul>
             </div>
         </nav>
@@ -48,14 +48,14 @@
             <section class="resume-section" id="intro"> <!-- COLOCAR BOTON DINAMICO INTRO-->
                 <div class="resume-section-content">
                     <h1 class="mb-0">
-                        SARS-CoV-2 <!-- PALABRA CLAVE AL INICIO DEL TITULO-->
-                        <span class="text-primary">Diagnostic innovation</span>  <!-- TITULO PRINCIPAL-->
+                        Modelando el COVID-19 <!-- PALABRA CLAVE AL INICIO DEL TITULO-->
+                        <span class="Implementación de modelos matemáticos para simular el comportamiento del virus.">Ven y descúbrelo</span>  <!-- TITULO PRINCIPAL-->
                     </h1>
                     
                     
                     <div class="subheading mb-5">
-                        Final project to the clubes de ciencia México challenge 2020 <!-- SUBTITULO PRINCIPAL-->
-                        <a href="https://www.clubesdeciencia.mx/CdeCMx/Challenge">Rules and guidelines here!</a>   <!-- AÑADIR LINK A PAGINA DE CLUBES-->
+                        Proyecto final: Implementando Cadenas de Markov <!-- SUBTITULO PRINCIPAL-->
+                        <a href="https://coronavirus.gob.mx/datos/">Conoce la situación actual de nuestro país!</a>   <!-- AÑADIR LINK A PAGINA DE CLUBES-->
                     </div>
                     
                     <p class="lead mb-5"> Este documento presenta una propuesta de una pagina web para que pueda ser utilizada
