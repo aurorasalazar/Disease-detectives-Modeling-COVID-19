@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="Equipo" content="" />
-        <title ="cdcmx challenge 2020"</title>  <!-- TITULO DE PESATAÑA DE LA WEB-->
+        <title>cdcmx challenge 2020</title>  <!-- TITULO DE PESATAÑA DE LA WEB-->
         <link rel="icon" type="image/x-icon" href="assets/img/icon-cov.ico" />  <!-- ICONO DE LA PESTAÑA DE LA WEB-->
         <script src=https://use.fontawesome.com/releases/v5.13.0/js/all.js crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -21,7 +21,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-primary fixed-top" id="sideNav"> <!--WARNING CAMBIAR navbar-light-(navbar-dark) correct-->
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
                 <span class="d-block d-lg-none">cdcmx challenge </span>        <!-- TITULO DEL SLIDEBAR O SELECTOR DE MENU-->
-                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/cdcmx.png" alt="" /></span> <!-- FOTO PARA PERFIL DEL MENU-->
+                <span class="d-none d-lg-block"><img class="https://img2.rtve.es/v/5530085?w=1600&preview=1583356362400.jpg" alt="" /></span> <!-- FOTO PARA PERFIL DEL MENU-->
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
