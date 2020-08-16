@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="Equipo" content="" />
-        <title>cdcmx challenge 2020</title>  <!-- TITULO DE PESATAÑA DE LA WEB-->
+
         <link rel="icon" type="image/x-icon" href="assets/img/icon-cov.ico" />  <!-- ICONO DE LA PESTAÑA DE LA WEB-->
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
